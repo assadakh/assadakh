@@ -19,3 +19,4 @@
 ## 📫 Me contacter
 <!-- Site perso + email ou LinkedIn -->
 - Site : [www.assad.ovh](https://www.assad.ovh)
+- LinkedIn : [www.linkedin.com/in/assad-akhoun-224011399](https://www.linkedin.com/in/assad-akhoun-224011399)
